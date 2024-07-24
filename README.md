@@ -1,4 +1,4 @@
 # Aditya
 Hare Krishna
 <br>
-GIt repository.
+Git repository.
